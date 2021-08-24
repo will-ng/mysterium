@@ -1,3 +1,6 @@
+This fork adds compatibility for Kaihl hotswap inserts.
+#
+
 # MYSTERIUM
 **TKL keyboard that can be entirely assembled using only through hole components, including usb type c**
 
